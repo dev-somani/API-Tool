@@ -1,0 +1,23 @@
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+frontend/dist/
+
+# Secrets / local data
+.env
+.env.*
+*.db
+*.sqlite3
+
+# Generated output
+reports_output/
+backend/reports_output/
+
+# OS / editor
+.DS_Store
+.vscode/
